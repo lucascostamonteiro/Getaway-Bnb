@@ -1,6 +1,6 @@
 # Welcome to Getaway-Bnb!
 ## Overview
-[Getaway](https://getaway-bnb.herokuapp.com/), inspired by Airbnb, is website where users can find, list, and review rental places located in Brazil.
+[Getaway](https://getaway-bnb.herokuapp.com/) is website where users can find, list, and review rental places located in Brazil.
 
 
 ![image](https://user-images.githubusercontent.com/79651942/159957451-078a626a-ca79-4f8a-bdc1-5f04537251be.png)
